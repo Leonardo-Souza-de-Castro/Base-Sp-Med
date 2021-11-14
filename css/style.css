@@ -218,8 +218,21 @@
 
 .box-inputs select{
     width: 90%;
+    background-color: transparent;
+    border: 2px solid #8B5EDB;
+    border-radius: 13px;
+    height: 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .box-inputs button{
     width: 90%;
+    background-color: #8B5EDB;
+    height: 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
 }
